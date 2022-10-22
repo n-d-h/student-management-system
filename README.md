@@ -1,11 +1,5 @@
 # Welcome to Student Management Repository
 
-<p align="center">
-  <a href="#there-will-be-belongings-in-this-repo">Belongings</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#screen-shots">Screen Shots</a> •
-</p>
-
 ### There will be belongings in this repo
 
 * A file .cpp - a code script i wrote in a compiler called [Dev-C++](http://orwelldevcpp.blogspot.com)
@@ -22,9 +16,19 @@
 
 ### Screen shots
 
-![]()
+![pic1](https://github.com/n-d-h/student-management-system/blob/main/screenshots/1.png)
 
-![]()
+![pic2](https://github.com/n-d-h/student-management-system/blob/main/screenshots/2.png)
+
+![pic3](https://github.com/n-d-h/student-management-system/blob/main/screenshots/3.png)
+
+![pic4](https://github.com/n-d-h/student-management-system/blob/main/screenshots/4.png)
+
+<p align="center">
+  <a href="#there-will-be-belongings-in-this-repo">Belongings</a> •
+  <a href="#key-features">Key Features</a> •
+  <a href="#screen-shots">Screen Shots</a> 
+</p>
 
 #### Contact me via duchoang4195@gmail.com
 #### Copyright &#169; duchoang
