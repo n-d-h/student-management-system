@@ -2,7 +2,7 @@
 
 ### There will be belongings in this repo
 
-* A file .cpp - a code script i wrote in a compiler called [Dev-C++](http://orwelldevcpp.blogspot.com)
+* A file .cpp - a code script i wrote in [Dev-C++](http://orwelldevcpp.blogspot.com) compiler
 * A file .exe - download and run the file to test the system
 
 ### Key Features
